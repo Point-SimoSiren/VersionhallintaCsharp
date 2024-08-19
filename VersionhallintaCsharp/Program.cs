@@ -10,7 +10,9 @@ namespace VersionhallintaCsharp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("moi");
+            Console.WriteLine("moikka");
+
+
         }
     }
 }
